@@ -38,3 +38,5 @@ def is_ten(number):
 print(is_ten(8))
 
 print(is_ten(10))
+
+10()
